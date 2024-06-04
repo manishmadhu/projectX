@@ -1,7 +1,7 @@
-package com.theme.starterkit.libs;
+package master.nigaits.wapp.libs;
 
-import com.theme.starterkit.libs.config.KTIconsBaseSettings;
-import com.theme.starterkit.libs.config.KTThemeBaseConfig;
+import master.nigaits.wapp.libs.config.KTIconsBaseSettings;
+import master.nigaits.wapp.libs.config.KTThemeBaseConfig;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.io.File;

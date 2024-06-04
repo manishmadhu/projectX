@@ -1,4 +1,4 @@
-package com.theme.starterkit.libs.config;
+package master.nigaits.wapp.libs.config;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;

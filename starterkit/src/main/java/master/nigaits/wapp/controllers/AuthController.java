@@ -1,6 +1,6 @@
-package com.theme.starterkit.controllers;
+package master.nigaits.wapp.controllers;
 
-import com.theme.starterkit.libs.KTTheme;
+import master.nigaits.wapp.libs.KTTheme;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
