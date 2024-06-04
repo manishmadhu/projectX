@@ -1,4 +1,4 @@
-package com.theme.starterkit;
+package master.nigaits.wapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,14 +1,13 @@
-package com.theme.starterkit.controllers;
+package master.nigaits.wapp.controllers;
 
-import com.theme.starterkit.libs.KTTheme;
-import com.theme.starterkit.libs.config.KTThemeBaseConfig;
+import master.nigaits.wapp.libs.KTTheme;
+import master.nigaits.wapp.libs.config.KTThemeBaseConfig;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.CookieValue;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
-import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
 public class DashboardController {

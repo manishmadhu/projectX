@@ -1,4 +1,4 @@
-package com.theme.starterkit;
+package master.nigaits.wapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,9 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import java.io.IOException;
 
 @SpringBootApplication
-public class StarterkitApplication {
+public class NigaitsWpApplication {
 	public static void main(String[] args) throws IOException {
-		SpringApplication.run(StarterkitApplication.class, args);
+		SpringApplication.run(NigaitsWpApplication.class, args);
 	}
 
 }
